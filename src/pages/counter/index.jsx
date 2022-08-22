@@ -1,4 +1,4 @@
-import Responsive from "../../src/components/common/responsive";
+import Responsive from "../../components/common/responsive";
 import { useSelector, useDispatch } from "react-redux";
 // import {UP,DOWN} from "../../src/reducers"
 
