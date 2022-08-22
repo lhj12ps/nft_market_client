@@ -1,6 +1,6 @@
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
-import Store from "../src/store/useStore";
-import Header from "../src/components/common/header";
+import Store from "../store/useStore";
+import Header from "../components/common/header";
 // import { ChakraProvider,ColorModeScript } from '@chakra-ui/react'
 
 const queryClient = new QueryClient();
